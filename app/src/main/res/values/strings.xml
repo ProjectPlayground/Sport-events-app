@@ -1,0 +1,123 @@
+<resources>
+
+    <string name="app_name">SDU Sport Events</string>
+    <string name="pager_title_event_lists">Sport Events</string>
+    <string name="pager_title_map">Map</string>
+    <string name="remove_item_option">Remove Event</string>
+    <string name="positive_button_create">Create Event</string>
+    <string name="text_you">You</string>
+    <string name="log_error_updating_data">Error updating data: </string>
+    <string name="log_error_the_read_failed">The read failed: </string>
+    <string name="log_error_occurred">"Error occurred: "</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_remove_list">Delete event?</string>
+    <string name="hint_add_event_list"> Event name</string>
+    <string name="created_by">Created by </string>
+    <string name="person_turned">%d person turned in</string>
+    <string name="people_turned">%d people are turned in</string>
+    <string name="title_activity_list_details">Event Details</string>
+    <string name="action_edit_list_name">Edit event name</string>
+    <string name="positive_button_add_list_item">Add event</string>
+    <string name="positive_button_edit_item">Edit event name</string>
+    <string name="negative_button_cancel">Cancel</string>
+    <string name="dialog_message_are_you_sure_remove_list">Are you sure you want to remove this event?</string>
+    <string name="dialog_message_are_you_sure_remove_item">Are you sure you want to remove this event?</string>
+    <string name="button_stop_turned">Turned In</string>
+    <string name="button_start_turned">Turn In</string>
+    <string name="empty"></string>
+    <string name="text_you_are_turned">You turned in</string>
+    <string name="text_you_and_other_are_turned"> %s is turned in</string>
+    <string name="text_you_and_number_are_turned">You and %d others are turned in</string>
+    <string name="text_other_is_turned">%s is turned in</string>
+    <string name="text_other_and_other_are_turned">%1$s and %2$s are turned in</string>
+    <string name="text_other_and_number_are_turned">%1$s and %2$d others are turned in</string>
+
+
+
+
+    <string name="us2"> %s is turned in</string>
+    <string name="us3"> %s is turned in</string>
+    <string name="us4"> %s is turned in</string>
+
+
+    <string name="title_activity_mam_details">Map Details</string>
+    <string name="title_activity_add_items_from_map">Add place</string>
+
+
+    <string name="hint_add_map">Create a place</string>
+    <string name="dialog_title_remove_map">Remove place</string>
+    <string name="dialog_message_are_you_sure_remove_map">Are you sure you want to remove this place?</string>
+    <string name="hint_enter_map_name">Enter place name</string>
+
+
+
+
+
+
+
+    <!--
+
+     == Login and Create Account Strings ==
+
+      -->
+    <!-- Activity Titles  -->
+    <string name="title_activity_create_account">Create Account</string>
+
+    <!-- Login and Create Account Screen  -->
+    <string name="text_dont_have_account">Do you have an account?</string>
+    <string name="text_already_have_account">Already have an account?</string>
+    <string name="button_create_account">Sign Up</string>
+    <string name="button_sign_in">Sign In</string>
+    <string name="button_signin_with_google">SIGN IN WITH GOOGLE</string>
+    <string name="button_signin_with_password">Sign In</string>
+    <string name="hint_enter_email">Enter your email</string>
+    <string name="hint_enter_username">Enter your name</string>
+    <string name="hint_enter_password">Enter password</string>
+    <string name="image_view_logo_image">Logo Image</string>
+
+
+
+    <string name="progress_dialog_loading">Loading…</string>
+    <string name="progress_dialog_authenticating_with_firebase">Authenticating…</string>
+    <string name="progress_dialog_creating_user_with_firebase">Attempting to create account…</string>
+
+
+    <string name="dialog_title_error">Error</string>
+    <string name="error_message_failed_sign_in_no_network">There was a problem with the network connection.\nAre you sure you\'re connected to the internet?</string>
+    <string name="log_error_invalid_provider">"Invalid provider: "</string>
+    <string name="log_error_failed_to_change_password">"Failed to change the password: "</string>
+    <string name="error_invalid_email_not_valid">%s is not a valid email</string>
+    <string name="error_message_email_issue">There was an error with your email; please check that you entered it correctly.</string>
+    <string name="error_you_didnt_give_permissions">You must give app permission to access your Google account information if you want to use Google sign-in.</string>
+    <string name="error_email_taken">The email is already taken.</string>
+    <string name="error_invalid_password_not_valid">Please enter a password that is at least 6 characters long.</string>
+    <string name="error_cannot_be_empty">This cannot be empty.</string>
+
+
+    <string name="google_error_recoverable_oauth_error">"Recoverable Google OAuth error: "</string>
+    <string name="google_error_google_play_services_not_available">Google Play Services are not available.</string>
+    <string name="google_error_trying_to_connect_google_api">Trying to connect to Google API</string>
+    <string name="google_error_auth_with_google">"Error authenticating with Google: "</string>
+    <string name="google_error_network_error">"Network error: "</string>
+    <string name="google_error_cant_connect_to_api">Are you sure that you set up a project for your app?
+        Check out : https://console.developers.google.com/project. Also make sure you have all the proper
+    gradle dependencies</string>
+
+
+
+    <string name="oauth2_format">oauth2:%s</string>
+
+
+
+    <string name="log_message_auth_successful">auth successful.</string>
+
+
+    <string name="action_settings">Settings</string>
+
+
+
+
+
+
+
+</resources>
